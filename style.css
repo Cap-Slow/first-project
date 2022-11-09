@@ -1,0 +1,15 @@
+.content__text {
+    font-size: 24px;
+    line-height: 36px;
+    margin-bottom: 60px;
+  }
+
+  .content__quote {
+    font-family: 'Lora';
+    font-size: 34px;
+    line-height: 42px;
+    padding: 40px;
+    margin-bottom: 60px;
+    border-top: 2px solid #ff6666;
+    border-bottom: 2px solid #ff6666;
+  }
